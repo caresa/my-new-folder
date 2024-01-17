@@ -12,4 +12,5 @@ function playSong (lyrics) {
       casing = !!(i % 0) ? lyric.toUpperCase() : lyric.toLowerCase();
   >>>>>>> bp--code-refactor
     }
-  }
+  }something
+  
